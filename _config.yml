@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hannah Mechtenberg"
   avatar           : "profile.png"
-  bio              : "Graduate student studying Langauge and Cognition at the University of Connecticut."
+  bio              : "Graduate student studying Langauge and Cognition at the University of Connecticut"
   location         : "Storrs, CT"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "@hannah_mech"
+  twitter          : "hannah_mech"
   vine             :
   weibo            :
   xing             :
